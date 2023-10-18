@@ -1,5 +1,5 @@
 - 👋 Hola, soy @hectorsalasvillasur
-- 👀 Estoy interesado en programar con JSF y me está resultando duro. Si la cosa no mejora, me paso a Spring
+- 👀 Estoy interesado en programar con JSF y me está resultando duro el paso a Jakarta. Si la cosa no mejora, me cambio a Spring
 - 🌱 Actualmente estoy aprendiendo a usar GitHub para mejorar mi estilo de programacion (el control de versiones lo llevo bien). 
 
 
